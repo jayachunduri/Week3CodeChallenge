@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Week3CodeChallenge\Week3 Code Challenge\Week3 Code Challenge\bin\Debug\Week3 Code Challenge.exe.config
+C:\Users\Technologist\Documents\GitHub\Week3CodeChallenge\Week3 Code Challenge\Week3 Code Challenge\bin\Debug\Week3 Code Challenge.exe
+C:\Users\Technologist\Documents\GitHub\Week3CodeChallenge\Week3 Code Challenge\Week3 Code Challenge\bin\Debug\Week3 Code Challenge.pdb
+C:\Users\Technologist\Documents\GitHub\Week3CodeChallenge\Week3 Code Challenge\Week3 Code Challenge\obj\Debug\Week3 Code Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Week3CodeChallenge\Week3 Code Challenge\Week3 Code Challenge\obj\Debug\Week3 Code Challenge.exe
+C:\Users\Technologist\Documents\GitHub\Week3CodeChallenge\Week3 Code Challenge\Week3 Code Challenge\obj\Debug\Week3 Code Challenge.pdb
